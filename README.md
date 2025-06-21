@@ -27,10 +27,9 @@ ResuMate is a sleek, fast, and free resume builder made with React and TailwindC
 
 <!-- Replace with actual images -->
 ![Home](https://via.placeholder.com/800x400?text=Home+Page)
-![Screenshot (156)](https://github.com/user-attachments/assets/3dd8adca-e0db-45ff-a478-cda1930d2cf8)
 
 ![Builder](https://via.placeholder.com/800x400?text=Builder+Page)
-![Screenshot (155)](https://github.com/user-attachments/assets/ab04661e-2aa8-4b50-b6d8-81d389186461)
+
 
 
 ## 🧑‍💻 How to Run Locally
